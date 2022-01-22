@@ -1,2 +1,2 @@
-# Personal
+# CV
 For current learning
